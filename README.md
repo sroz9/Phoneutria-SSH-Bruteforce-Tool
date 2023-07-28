@@ -2,7 +2,7 @@
 
 # What is Phoneutria?
 Phoneutria SSH, or PSSH, is a Tool that uses an IP-Adress, an Username file and a Password file to try to log into 
-a Computer using SSH.
+a Computer using SSH. <sub>Note that this was originally AI-genrated.</sub>
 Following things are to be rememberd when using PSSH:
 
  1. Note that Bruteforcing can be Illegal based on intent. 
@@ -29,4 +29,5 @@ Following things are to be rememberd when using PSSH:
 
 # LICENCE
 The code is licensed under the MIT License.
+
 
