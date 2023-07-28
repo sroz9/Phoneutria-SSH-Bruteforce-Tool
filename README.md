@@ -1,8 +1,8 @@
 # Phoneutria SSH-An SSH Bruteforce-Tool
 
 # What is Phoneutria?
-Phoneutria SSH, or PSSH, is a Tool that uses an IP-Adress, an Username file and a Password file to try to log into 
-a Computer using SSH. <sub>Note that this was originally AI-genrated</sub>.
+Phoneutria SSH, or **PSSH**, is a Tool that uses an IP-Adress, an [Username](https://github.com/jeanphorn/wordlist/blob/master/usernames.txt) file and a [Password](https://www.kaggle.com/datasets/wjburns/common-password-list-rockyoutxt) file to try to log into 
+a Computer using SSH. Also note that this was **originally** AI-genrated.
 Following things are to be rememberd when using PSSH:
 
  1. Note that Bruteforcing can be Illegal based on intent. 
