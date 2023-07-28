@@ -1,18 +1,15 @@
-# Phoneutria SSH
-All Rights Reserved
+# Phoneutria SSH-An SSH Bruteforce-Tool
 
-Copyright (c) 2023 SroZ
+# What is Phoneutria?
+Phoneutria SSH, or PSSH, is a Tool that uses an IP-Adress, an Username file and a Password file to try to log into 
+a Computer using SSH.
+Following things are to be rememberd when using PSSH:
+              1. The legality of a brute force attack is dictated by intent. In other words, if you're attempting to maliciously access a user account or organization's network to cause harm through financial or other motivations, then it is illegal.
+              2. For any Legal issues caused by PSSH, the user of the Software is responsable. Meaning that you should use this at your own risk!
+              3. This Tool can be very time consuming, as Phoneutria will need to guess both the username and the password. This Tool also does NOT have a 100% chance of successing.
+              4. Phoneutria can, depending on the users PC, cause lag.
 
-Created by SroZ
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
+# How to install and run?
 To start the Software please make sure you have Python installed:
 
  https://www.python.org/downloads/
@@ -30,3 +27,7 @@ After Installed it will prompt you to enter the target IP address, username file
 
 A username file (usernames.txt) will be provided with the Software.
 You can also use other password/username files.
+
+#LICENCE
+The code is licensed under the MIT License.
+
