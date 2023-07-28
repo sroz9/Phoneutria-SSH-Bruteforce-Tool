@@ -27,3 +27,6 @@ To start the Software please make sure you have Python installed:
  python Phoneutria.py
  
 After Installed it will prompt you to enter the target IP address, username file path, and password file path as input for the script.
+
+A password file (rockyou.txt) and a username file (usernames.txt) will be provided with the Software.
+You can also use other password/username files.
