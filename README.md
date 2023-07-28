@@ -5,14 +5,9 @@ Phoneutria SSH, or PSSH, is a Tool that uses an IP-Adress, an Username file and 
 a Computer using SSH.
 Following things are to be rememberd when using PSSH:
 
-              1. If you're attempting to maliciously access a user account or organization's network
-              to cause harm through financial or other motivations,
-              then it is illegal.
+              1. Note that Bruteforcing can be Illegal based on intent. 
               2. For any Legal issues caused by PSSH, the user of the Software is responsable.
-              Meaning that you should use this at your own risk!
-              3. This Tool can be very time consuming, 
-              as Phoneutria will need to guess both the username and the password. 
-              This Tool also does NOT have a 100% chance of successing.
+              3. This Tool can be very time consuming.              
               4. Phoneutria can, depending on the users PC, cause lag.
 
 # How to install and run?
