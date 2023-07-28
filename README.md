@@ -11,22 +11,22 @@ Following things are to be rememberd when using PSSH:
  4. Phoneutria can, depending on the users PC, cause lag.
     
 # How to install and run?
--To start the Software please make sure you have Python installed:
+- To start the Software please make sure you have Python installed:
 
--https://www.python.org/downloads/
+- https://www.python.org/downloads/
  
--In order for the Software to work correctly also make sure you have paramiko installed:
+- In order for the Software to work correctly also make sure you have paramiko installed:
  
--pip install paramiko
+- pip install paramiko
 
--Once you have Python and paramiko installed, you should be able to run the script without any issues.
+- Once you have Python and paramiko installed, you should be able to run the script without any issues.
  Remember to save the script with a .py extension and execute it from the command line or terminal using:
 
--python Phoneutria.py
+- python Phoneutria.py
  
--After Installed it will prompt you to enter the target IP address, username file path, and password file path as input for the script.
+- After Installed it will prompt you to enter the target IP address, username file path, and password file path as input for the script.
 
--A username file (usernames.txt) will be provided with the Software.
+- A username file (usernames.txt) will be provided with the Software.
  You can also use other password/username files.
 
 # LICENCE
