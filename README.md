@@ -28,6 +28,6 @@ After Installed it will prompt you to enter the target IP address, username file
 A username file (usernames.txt) will be provided with the Software.
 You can also use other password/username files.
 
-#LICENCE
+# LICENCE
 The code is licensed under the MIT License.
 
