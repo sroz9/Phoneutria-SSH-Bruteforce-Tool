@@ -5,8 +5,8 @@ Phoneutria SSH, or PSSH, is a Tool that uses an IP-Adress, an Username file and 
 a Computer using SSH.
 Following things are to be rememberd when using PSSH:
 
-              1. The legality of a brute force attack is dictated by intent.
-              In other words, if you're attempting to maliciously access a user account or organization's network to cause harm through financial or other motivations,
+              1. If you're attempting to maliciously access a user account or organization's network
+              to cause harm through financial or other motivations,
               then it is illegal.
               2. For any Legal issues caused by PSSH, the user of the Software is responsable.
               Meaning that you should use this at your own risk!
